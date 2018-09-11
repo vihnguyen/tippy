@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/4roZD1X' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a318a45c-d84c-4f1b-acc6-95e9ca31115c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
